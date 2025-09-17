@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: debricked/actions/fingerprint@v4
+      - uses: debricked/actions/fingerprint-non-docker@v4
